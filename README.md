@@ -1,5 +1,5 @@
-<h1 align="center">Halo Aku Huda</h1>
-<h3 align="center">Hanya Manusia Biasa Yang Ingin Selalu Belajar</h3>
+<h1 align="center">North2Cool is Here</h1>
+<h3 align="center">Just North Nothing else</h3>
 
 - 🔭 I’m currently working on Palugada Pusat [As a Social Media Strategist](https://www.instagram.com/palugadapusatofficial/)
 
