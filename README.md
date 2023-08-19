@@ -1,5 +1,5 @@
 <h1 align="center">Hello North's Here</h1>
-<h3 align="center">in certain directions their cunning surpasses that of the fox.</h3>
+<h3 align="center">in certain directions my cunning surpasses that of the fox.</h3>
 
 - Social Media Strategist For [Palugada Pusat](https://www.instagram.com/palugadapusatofficial/)
 
