@@ -1,4 +1,4 @@
-<h1 align="center">Halo Aku Huda</h1>
+<h1 align="center">Hello North's Here</h1>
 <h3 align="center">As lazy as a cat, as slow as a sloth. Linux enthusiasm</h3>
 
 - Social Media Strategist For [Palugada Pusat](https://www.instagram.com/palugadapusatofficial/)
